@@ -1,3 +1,21 @@
 body {
   background: thistle;
 }
+.about {
+  padding: block;
+  float: left;
+  border-radius: 100px;
+  background-color: aliceblue;
+  text-align: center;
+  width: 40%;
+  height: 400px;
+}
+.contact {
+  padding: block;
+  float: right;
+  border-radius: 100px;
+  background-color: aliceblue;
+  text-align: center;
+  width: 40%;
+  height: 400px;
+}
